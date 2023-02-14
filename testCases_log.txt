@@ -25,7 +25,7 @@
 [INFO]  T E S T S
 [INFO] -------------------------------------------------------
 [INFO] Running AuthIntegrationTest
-[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.563 s - in AuthIntegrationTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.057 s - in AuthIntegrationTest
 [INFO] Running MessagingIntegrationTest
 Delete
 true
@@ -48,7 +48,7 @@ Message{message_id=1, posted_by=1, message_text='hello message', time_posted_epo
 null
 null
 null
-[INFO] Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.849 s - in MessagingIntegrationTest
+[INFO] Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.449 s - in MessagingIntegrationTest
 [INFO] 
 [INFO] Results:
 [INFO] 
@@ -57,6 +57,6 @@ null
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  45.175 s
-[INFO] Finished at: 2023-02-14T19:09:12Z
+[INFO] Total time:  43.264 s
+[INFO] Finished at: 2023-02-14T19:10:46Z
 [INFO] ------------------------------------------------------------------------
